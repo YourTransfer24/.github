@@ -29,9 +29,14 @@ The YourTransfer24 API ecosystem provides a complete, secure, and developer-frie
 <hr />
 
 <h2>Official SDKs</h2>
-
+<p align="center" style="font-size:15px; margin-top:30px; color:#2C3E50;">
+  <strong>Repository Access Policy</strong><br>
+  SDK repositories are private and exclusively available to authorized developers who are actively implementing an integration with YourTransfer24.<br><br>
+  For access requests, please contact: 
+  <strong>api.support@yourtransfer24.com</strong>
+</p>
 <pre>
-├── JSON REST API  
+JSON REST API  
 ├── Python SDK  
 ├── JavaScript SDK  
 ├── Node.js SDK  
@@ -44,22 +49,12 @@ The YourTransfer24 API ecosystem provides a complete, secure, and developer-frie
 All SDKs include installation instructions, authentication setup, environment selection, full method references, request/response schemas, code samples, and booking workflow examples.
 </p>
 
-<h3>Repository Links</h3>
-
-<ul>
-  <li><a href="https://github.com/YourTransfer24/yt24-sdk-python">Python SDK</a></li>
-  <li><a href="https://github.com/YourTransfer24/yt24-sdk-js">JavaScript SDK</a></li>
-  <li><a href="https://github.com/YourTransfer24/yt24-sdk-node">Node.js SDK</a></li>
-  <li><a href="https://github.com/YourTransfer24/yt24-sdk-php">PHP SDK</a></li>
-  <li><a href="https://github.com/YourTransfer24/yt24-sdk-java">Java SDK</a></li>
-</ul>
-
 <hr />
 
 <h2>Developer Tools</h2>
 
 <ul>
-  <li>Public GitHub repositories with continuous updates</li>
+  <li>Private GitHub repositories with continuous updates</li>
   <li>Interactive Swagger UI for both Sandbox and Production</li>
   <li>Developer Dashboard for API key lifecycle management</li>
   <li>Structured onboarding and integration workflow for external developers</li>
