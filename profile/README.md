@@ -91,7 +91,7 @@ JSON REST API (v1.3.3)
 ├── yt24-sdk-php        Public (required by Packagist)
 ├── yt24-sdk-js         Private (npm publication allowed without public repo)
 ├── yt24-sdk-node       Private (npm publication allowed without public repo)
-├── yt24-sdk-java       Private (Maven Central publication allowed)
+├── yt24-sdk-java       Public (required by Marven Central)
 └── yt24-sdk-python     Private (PyPI publication allowed)
 </pre>
 
