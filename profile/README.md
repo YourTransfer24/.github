@@ -7,7 +7,7 @@
 <p align="center">Official technical resources and SDK ecosystem for the YourTransfer24 JSON REST API.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API_Version-v1.3.3-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API_Version-v1.4-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-Private-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Access-By_Invitation_Only-blue?style=for-the-badge">
 </p>
@@ -54,7 +54,7 @@ Only SDKs that require public visibility for installation remain public. The res
 &lt;dependency&gt;<br>
 &nbsp;&nbsp;&lt;groupId&gt;com.yourtransfer24&lt;/groupId&gt;<br>
 &nbsp;&nbsp;&lt;artifactId&gt;yt24-sdk&lt;/artifactId&gt;<br>
-&nbsp;&nbsp;&lt;version&gt;1.3.3&lt;/version&gt;<br>
+&nbsp;&nbsp;&lt;version&gt;1.4&lt;/version&gt;<br>
 &lt;/dependency&gt;
     </code><br>
     <a href="https://github.com/YourTransfer24/yt24-sdk-java">https://github.com/YourTransfer24/yt24-sdk-java</a>
@@ -89,7 +89,7 @@ Private repositories include version control, authentication helpers, request an
 <h2>SDK Distribution Model</h2>
 
 <pre>
-JSON REST API (v1.3.3)
+JSON REST API (v1.4)
 ├── yt24-sdk-php        Public (required by Packagist)
 ├── yt24-sdk-js         Private (npm publication allowed)
 ├── yt24-sdk-node       Private (npm publication allowed)
@@ -131,7 +131,7 @@ All SDKs include authentication flows, method references, booking lifecycle exam
 &lt;dependency&gt;
   &lt;groupId&gt;com.yourtransfer24&lt;/groupId&gt;
   &lt;artifactId&gt;yt24-sdk&lt;/artifactId&gt;
-  &lt;version&gt;1.3.3&lt;/version&gt;
+  &lt;version&gt;1.4&lt;/version&gt;
 &lt;/dependency&gt;
 </pre>
 <p>
